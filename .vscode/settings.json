@@ -1,0 +1,7 @@
+{
+  "editor.fontFamily": "'cascadia code'",
+  "files.exclude": {
+    ".vscode": true
+  },
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
